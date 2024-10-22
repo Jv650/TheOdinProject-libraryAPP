@@ -1,0 +1,24 @@
+#load-books {
+    box-shadow: 3px 3px #888888;
+
+}
+
+.card {
+    border: 2px solid grey; 
+    padding: 20px; 
+    width: 300px; 
+    height: 100px; 
+    border-radius: 20px;
+    background-color: white;
+}
+
+#new-book-btn{
+    color:white;
+    font: 20px Arial;
+    background: cornflowerblue;
+    padding: 20px;
+    border-radius: 12px;
+    border-color: cornflowerblue;
+    display: block;
+    margin: 0 auto;
+}
